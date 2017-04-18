@@ -8,3 +8,9 @@ h1 {
  font-family: comic sans ms;
  text-align: center;
 }
+
+p {
+  color: white;
+  font-size: 25px;
+  line-height: 35px;
+}
