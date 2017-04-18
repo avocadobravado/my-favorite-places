@@ -1,5 +1,10 @@
+body {
+  background-color: #053177;
+}
+
 h1 {
  color: gray;
  font-size: 72px;
  font-family: comic sans ms;
+ text-align: center;
 }
